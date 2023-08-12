@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhhorizon&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhhorizon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhhorizon" alt="saurabhhorizon" /></a> </p>
-
 - 🔭 I’m currently working as **a freelancer**
 
 - 🌱 I’m currently learning **C++ for my problem solving skills and advance Next.js**
