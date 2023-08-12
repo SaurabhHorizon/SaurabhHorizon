@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Good projects with daily active users**
 
-- 🤝 I’m looking for help with **Next.js, next and google auth, with advanced Fronted components**
+- 🤝 I’m looking for help with **Next.js, next and google auth, with advance Fronted components**
 
 - 💬 Ask me about **rect, next, C++, DSA**
 
