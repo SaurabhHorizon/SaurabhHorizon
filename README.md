@@ -2,7 +2,6 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhhorizon&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhhorizon" /> </p>
-
 - 🔭 I’m currently working as **a freelancer**
 
 - 🌱 I’m currently learning **C++ for my problem solving skills and advance Next.js**
