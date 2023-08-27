@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhhorizon&show_icons=true&locale=en" alt="saurabhhorizon" /></p>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="saurabh-nayak" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/saurabh-nayak?trk=profile-badge">SAURABH NAYAK</a></div>
               
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
