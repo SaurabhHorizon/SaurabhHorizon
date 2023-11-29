@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Next.js, next and google auth, with advance Fronted components**
 
-- 💬 Ask me about **rect, next, C++, DSA**
+- 💬 Ask me about **react, next, C++, DSA**
 
 - 📫 How to reach me **veerpalnayak@gmail.com**
 
